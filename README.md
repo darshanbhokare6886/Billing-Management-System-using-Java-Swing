@@ -3,7 +3,7 @@ This is a billing management system developed using Java Swing for the front end
 
 ## Features:
 
-1. Customer Information Management:
+## 1. Customer Information Management:
 
 1. Add new buyers with details such as name, contact number, email, address, and gender.
 
@@ -11,14 +11,14 @@ This is a billing management system developed using Java Swing for the front end
 3. Delete buyers from the database.
 4. View a list of all buyers with an option to print their details.
 
-2. Product Information Management:
+## 2. Product Information Management:
 
 1. Add new products with attributes including name, price, description, availability, and automatically generated product ID.
 2. Update existing product details.
 3. Delete products from the database.
 4. View a list of all products with an option to print their details.
 
-3. Billing Window:
+## 3. Billing Window:
 
 1. Generate bills by selecting a customer (buyer), products purchased, and their quantities.
 2. The system generates bills in PDF format.
